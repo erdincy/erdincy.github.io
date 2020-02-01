@@ -1,14 +1,14 @@
 # Site settings
-title: Rukiye Mühendislik
+title: ERA Mühendislik
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Rukiye Mühendislik
+username: ERA Mühendislik
 user_description: Electrical Project and Consultancy
 user_title: Electrical Engineer
-email: anon@anon.com
+email: rukiye.yavuz@eraproje.net
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
